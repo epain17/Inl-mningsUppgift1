@@ -1,0 +1,9 @@
+{
+    "name": "labb/ett",
+    "description": "inlamningsuppgift ett",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": ">1",
+        "monolog/monolog": ">1"
+    }
+}
